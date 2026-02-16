@@ -1,4 +1,4 @@
-# Welcome to MLDM HS 2025
+# Welcome to IML/MLDM FS 2026
 
 This repository contains lab exercises, datasets, and Jupyter notebooks for the Introduction to Machine Learning (IML) course at ZHAW for the Spring Semester 2026. Each weekly folder includes hands-on exercises designed to reinforce theoretical concepts covered in lectures.
 
