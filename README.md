@@ -16,6 +16,13 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Practical exercises with scikit-learn
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week2/L02_Linear_Regression.ipynb)
 
+- [**Week 3**: Gradient Descent and Polynomial Regression](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week3)
+  - Gradient descent optimization algorithms
+  - Polynomial regression and feature engineering
+  - Overfitting and regularization
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week3/L03_Gradient_Descent.ipynb)
+
+
 ## How to use Google Colab
 
 1. **Direct Link Method**:
